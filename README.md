@@ -1,5 +1,6 @@
 # AssignmentDataScience
-
-<a href="https://github.com/VidyaSurbhi/_Multi-Linear-Regression">Multi Linear Regression</a>
-<a href="https://github.com/VidyaSurbhi/Clustering">Clustering</a>
+<ui>
+  <li>
+<a href="https://github.com/VidyaSurbhi/_Multi-Linear-Regression">Multi Linear Regression</a></li>
+<li><a href="https://github.com/VidyaSurbhi/Clustering">Clustering</a></li></ui>
 
