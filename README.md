@@ -2,6 +2,7 @@
 <ui>
   <li>
 <a href="https://github.com/VidyaSurbhi/_Multi-Linear-Regression">Multi Linear Regression</a></li>
+  <a href="https://github.com/VidyaSurbhi/Logistic-Regression">Logistic Regression</a></li>
 <li><a href="https://github.com/VidyaSurbhi/Clustering">Clustering</a></li>
 <li><a href="https://github.com/VidyaSurbhi/Decision-Tree">Decision Tree</a></li>
 <li><a href="https://github.com/VidyaSurbhi/Random-Forest">Random Forest</a></li>
