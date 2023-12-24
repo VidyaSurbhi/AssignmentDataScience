@@ -13,4 +13,6 @@
 <li><a href="https://github.com/VidyaSurbhi/Recommendation-Book-System">Recommended System</a></li>
 <li>  <a href="https://github.com/VidyaSurbhi/SVM-SalaryPred">SVM Salary Train Test</a></li>
 <li>  <a href="https://github.com/VidyaSurbhi/SVM-ForestFire">SVM Forest Fire</a></li>
-<li>  <a href="https://github.com/VidyaSurbhi/Forecasting">Forecasting</a></li></ui>
+<li>  <a href="https://github.com/VidyaSurbhi/Forecasting">Forecasting</a></li>
+<li><a href="https://github.com/VidyaSurbhi/Hypothesis-Testing">Hypothesis Testing</li>
+<li><a href="https://github.com/VidyaSurbhi/Text-Mining">Text Mining </li></ui>
